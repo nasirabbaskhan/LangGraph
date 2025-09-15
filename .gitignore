@@ -1,0 +1,6 @@
+.env
+venv
+# Ignore Chroma DB files
+my_chroma_db/
+*.bin
+*.sqlite3.

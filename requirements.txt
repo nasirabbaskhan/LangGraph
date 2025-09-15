@@ -1,0 +1,14 @@
+langchain 
+langchain-google-genai 
+python-dotenv 
+langgraph 
+tavily-python 
+langchain-community 
+langchain-groq 
+duckduckgo-search 
+psycopg-pool 
+psycopg
+psycopg-binary 
+langgraph-checkpoint-postgres 
+wikipedia 
+trustcall 
